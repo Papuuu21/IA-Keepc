@@ -1,15 +1,5 @@
 # Chatbot Att. cliente con documentos PDF
 
-Este proyecto es una adaptación de unas practicas que hice en una empresa de Marketing y lo desecharon porque no lo vieron rentable.
-
-En la empresa me pidieron un chatbot de att al cliente para poder aplicarlo a sus clientes. Su idea principal fue implementarlo en Azure usando los servicos de OpenAI y Search Services para el tratamiento de los documentos.
-
-Una vez diseñado el chatbot lo desecharon por que era muy costoso y solicitaron lo mismo pero con OpenAI. El cual tampoco les valió por ser también poco rentables para ellos.
-
-Se suben ambos archivos con los dos chatbots.
-
-Por ello en esta practica he querido buscar una solución a coste 0 para implementar el chatbot propuesto por ellos.
-
 Para las soluciones a coste 0 he optado por usar Mistral-7B, Phi-4-mini y Phi-3-instruct, los cuales han sido elegido porque son capaces de realizar las tareas encomendadas y los puedo usar en mi cpu, aunque la limitación de no tener GPU los hacen lentos, pero con una pequeña GPU se podrían implentar sin problemas.
 
 ### Conclusiones:
